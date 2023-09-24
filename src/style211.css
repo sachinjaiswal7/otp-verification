@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.wl{
+    text-align: center;
+}
+.pr{
+    color: grey;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    max-width: 400px;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+    font-size: 18px;
+}
+
+.otp-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-group {
+    margin: 10px 0;
+    text-align: left;
+}
+
+label {
+    font-size: 16px;
+    color: #333;
+}
+
+select,
+input[type="text"],
+input[type="tel"] {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid orange;
+    border-radius: 5px;
+    width: 100%;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px 0;
+    background-color:orange;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: green;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 50px auto;
+    max-width: 400px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+    font-size: 18px;
+}
+
+.otp-form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: row;
+}
+
+input[type="text"] {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid orange;
+    border-radius: 5px;
+    width: 20%;
+    font-size: 16px;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px 0;
+    background-color: orange;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: green;
+}
+
+.lst {
+    align-items: center;
+    margin-top: 20px;
+}
+
+.pr1 {
+    color: orange;
+    text-decoration: underline;
+}
+
+.lst21 {
+    color: orange;
+}
+
+.img {
+    max-width: 100%;
+}
